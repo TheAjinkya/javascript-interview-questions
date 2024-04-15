@@ -26,6 +26,41 @@
 * [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
+### Free JavaScript Courses to learn in 2024:
+
+1. Learn JavaScript
+https://codecademy.com/learn/introduction-to-javascript
+
+2. JavaScript for Beginners
+https://simplilearn.com/learn-javascript-basics-free-course-skillup
+
+3. Javascript Essentials
+https://udemy.com/course/javascript-essentials/
+
+4. JavaScript Fundamentals
+https://udemy.com/course/javascriptfundamentals/
+
+5. Learn to Program in Javascript: Beginner to Pro
+https://udemy.com/course/programming-in-javascript/
+
+6. Code Your First Game: Arcade Classic in JavaScript on Canvas
+https://udemy.com/course/code-your-first-game/
+
+7. Learn JavaScript - Full Course for Beginners
+https://youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org
+
+8. Learn Intermediate JavaScript
+https://codecademy.com/learn/learn-intermediate-javascript
+
+9. Programming with JavaScript
+https://imp.i384100.net/DK10Wb
+
+10. Meta Front-End Developer Professional Certificate
+https://imp.i384100.net/k0bgjx
+
+11. HTML, CSS, and Javascript for Web Developers
+https://imp.i384100.net/MmjnAM
+
 ### jQuery
 
 * [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
